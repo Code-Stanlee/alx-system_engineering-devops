@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=$PAEH:/action
+export PATH=$PATH:/action
